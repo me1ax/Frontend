@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.zagolovok{
+    background: grey;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    background: pink;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+form{
+    width:100%;
+    height: auto;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+button{
+    border: 1px solid black;
+    padding: 2px;
+
+}
